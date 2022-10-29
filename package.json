@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "next": "12.2.5",
-    "outstatic": "^0.0.30-rc",
+    "outstatic": "^0.0.32-rc",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
